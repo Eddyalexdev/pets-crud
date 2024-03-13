@@ -4,6 +4,7 @@
 
 ## Especificacion de la estructura de carpetas
 
+```
 pets
 |-- node_modules
 |-- public
@@ -17,5 +18,5 @@ pets
 | |-- views (vistas de la aplicacion)
 | | |-- Pets (esta es la vista donde incluiremos el create y el list para las rutas)
 | |-- main.tsx
-
+```
 _nota: en index.ts creamos el re-export o tambien conocido barrel para manejar rutas de importacion mas cortas y limpias_
